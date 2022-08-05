@@ -1,0 +1,40 @@
+.nav-link{
+    color: orange;
+    text-decoration: none;
+}
+.d-inline{
+   display: inline;
+}
+main{
+    max-width: 600px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+Section{
+    margin-top: 24px;
+    margin-bottom: 24px;
+    padding-left: 26px;
+    padding-right: 26px;
+    padding-bottom: 26px;
+}
+#title{
+    font-size: 40px;
+    font-weight: 800;
+}
+#avatar{
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+body{
+    background-color: #222222;
+    color: #eeeeee;    
+}
+nav > ul{
+    list-style: none;
+}
